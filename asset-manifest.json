@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/val24-quiz/static/css/main.8329c060.css",
+    "main.js": "/val24-quiz/static/js/main.08278744.js",
+    "static/js/787.ac192c94.chunk.js": "/val24-quiz/static/js/787.ac192c94.chunk.js",
+    "index.html": "/val24-quiz/index.html",
+    "main.8329c060.css.map": "/val24-quiz/static/css/main.8329c060.css.map",
+    "main.08278744.js.map": "/val24-quiz/static/js/main.08278744.js.map",
+    "787.ac192c94.chunk.js.map": "/val24-quiz/static/js/787.ac192c94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8329c060.css",
+    "static/js/main.08278744.js"
+  ]
+}
