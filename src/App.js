@@ -6,7 +6,7 @@ function App() {
   const [position, setPosition] = useState({x:0, y: 0});
 
   function handleYes() {
-    alert("I love you mostest!");
+    alert("I love you!");
   }
   function handleNo() {
     setAmt(amt+5);
